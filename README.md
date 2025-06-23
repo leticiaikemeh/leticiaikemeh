@@ -1,7 +1,8 @@
-````markdown
+![IMG_3470-01 (2)-fotor-ai-art-effects-20250623122104](https://github.com/user-attachments/assets/70e10020-bcb3-4ebc-bb08-874df28d5a5f)
+
 <!-- Header Banner (Optional: Use shields.io or custom SVG) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F37B7B&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Leticia+%F0%9F%91%8B;Backend+Developer+%7C+Fashion-Tech+Innovator;Creative+Problem+Solver+%7C+Tech+For+Good" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F37B7B&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Leticia+%F0%9F%91%8B;Backend+Developer+%7C+Fashion-Tech+Innovator;Creative+Problem+Solver+%7C+Tech+For+Good" alt="Typing SVG" />
 </p>
 
 ---
@@ -74,6 +75,3 @@ You can reach me here:
 
 ---
 
-```
-
----
